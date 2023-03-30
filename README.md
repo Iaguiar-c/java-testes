@@ -1,18 +1,18 @@
-## Getting Started
+## Questões Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Encontram-se quatro questões-problemas resolvidas utilizando a linguagem Java, para fins de aprendizado e avaliação
 
-## Folder Structure
+# Arquivos contídos em 'src': 
 
-The workspace contains two folders by default, where:
+- **Questao 1:** Treço de código para compilar o valor da variável SOMA;
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- **Questao 2:** Código em que o usuario insere um numero, a sequencia de Fibonacci é calculada e caso o numero digitado faça parte da sequencia é retonada uma mensagem informando;
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- **Questao 4:** proximidade entre dois veiculos;
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- **Questao 5:** inverter os caracteres de uma String sem usar funcoes prontas. 
 
-## Dependency Management
+#Redes Sociais 
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+LinkedIn: https://www.linkedin.com/in/isabella-aguiar-bb5a41248/
+Instagram: https://www.instagram.com/iac.xx/ 
