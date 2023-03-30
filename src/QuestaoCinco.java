@@ -1,3 +1,5 @@
+/*Escreva um programa que inverta os caracteres de um string. */
+
 import java.util.Scanner;
 
 public class QuestaoCinco {
